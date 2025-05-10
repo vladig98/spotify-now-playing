@@ -11,13 +11,14 @@ body {
 }
 
 .player-container {
-    background: rgba(0, 0, 0, 0.6);
+    background: green;
     padding: 2rem;
     border-radius: 12px;
     box-shadow: 0 8px 24px rgba(0, 0, 0, 0.5);
     display: flex;
     align-items: center;
     max-width: 400px;
+    min-width: 400px;
 }
 
 .artwork {
