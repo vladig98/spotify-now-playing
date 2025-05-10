@@ -26,7 +26,7 @@ A minimal front-end-only widget that:
 1. **Clone the repo**  
    ```bash
    git clone https://github.com/vladig98/spotify-now-playing.git
-   cd <project-root>
+   cd spotify-now-playing
    ```
 
 2. **Create your secrets file**  
