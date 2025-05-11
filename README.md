@@ -33,6 +33,7 @@ A minimal front-end-only widget that:
    ```js
    // secrets.js
    export const CLIENT_ID    = 'YOUR_SPOTIFY_CLIENT_ID';
+   export const CLIENT_SECRET = 'YOUR_SPOTIFY_CLIENT_SECRET';
    export const REDIRECT_URI = 'http://127.0.0.1:8888/';
    export const SCOPES       = 'user-read-currently-playing';
    ```
